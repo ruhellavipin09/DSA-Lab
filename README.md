@@ -25,6 +25,7 @@ this repo was created just to be regular in my gitpush and this is sync with lee
 | ------- |
 | [0002-add-two-numbers](https://github.com/ruhellavipin09/DSA-Lab/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ruhellavipin09/DSA-Lab/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ruhellavipin09/DSA-Lab/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
@@ -35,6 +36,7 @@ this repo was created just to be regular in my gitpush and this is sync with lee
 | ------- |
 | [0027-remove-element](https://github.com/ruhellavipin09/DSA-Lab/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ruhellavipin09/DSA-Lab/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/ruhellavipin09/DSA-Lab/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
