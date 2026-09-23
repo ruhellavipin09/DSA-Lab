@@ -23,6 +23,7 @@ this repo was created just to be regular in my gitpush and this is sync with lee
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ruhellavipin09/DSA-Lab/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/ruhellavipin09/DSA-Lab/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
