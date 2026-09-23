@@ -15,4 +15,16 @@ this repo was created just to be regular in my gitpush and this is sync with lee
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ruhellavipin09/DSA-Lab/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ruhellavipin09/DSA-Lab/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ruhellavipin09/DSA-Lab/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ruhellavipin09/DSA-Lab/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
